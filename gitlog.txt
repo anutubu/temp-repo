@@ -1,0 +1,17 @@
+commit 56174a5178b6f03654b250d34920ab0190c7165d
+Author: anutubu <anubhav@iitk.ac.in>
+Date:   Fri Jan 1 18:56:19 2021 +0530
+
+    added gitignore
+
+commit 602c5f61d914e30b094c1157f369730e5e6274f4
+Author: anutubu <anubhav@iitk.ac.in>
+Date:   Fri Jan 1 18:31:02 2021 +0530
+
+    added two files
+
+commit a52916500b5915067fdfee61fc50d05cff6f2199
+Author: anutubu <anubhav@iitk.ac.in>
+Date:   Fri Jan 1 17:40:18 2021 +0530
+
+    added readme.txt
